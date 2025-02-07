@@ -1,0 +1,221 @@
+Student 5 from group no 1 has arrived at the print station at time 1
+Student 5 from group no 1 is waiting and checking for Signals for print station 1 at time 1
+Student 5 from group no 1 has received MSG(normally) for print station 1 at time 1
+Student 5 from group no 1 has started printing at print station 1 at time 1----------
+Student 11 from group no 3 has arrived at the print station at time 2
+Student 11 from group no 3 is waiting and checking for Signals for print station 3 at time 2
+Student 11 from group no 3 has received MSG(normally) for print station 3 at time 2
+Student 11 from group no 3 has started printing at print station 3 at time 2----------
+Student 12 from group no 3 has arrived at the print station at time 3
+Student 12 from group no 3 is waiting and checking for Signals for print station 0 at time 3
+Student 12 from group no 3 has received MSG(normally) for print station 0 at time 3
+Student 12 from group no 3 has started printing at print station 0 at time 3----------
+Student 13 from group no 3 has arrived at the print station at time 4
+Student 13 from group no 3 is waiting and checking for Signals for print station 1 at time 4
+Student 15 from group no 3 has arrived at the print station at time 5
+Student 15 from group no 3 is waiting and checking for Signals for print station 3 at time 5
+Student 6 from group no 2 has arrived at the print station at time 6
+Student 6 from group no 2 is waiting and checking for Signals for print station 2 at time 6
+Student 6 from group no 2 has received MSG(normally) for print station 2 at time 6
+Student 6 from group no 2 has started printing at print station 2 at time 6----------
+Student 14 from group no 3 has arrived at the print station at time 7
+Student 14 from group no 3 is waiting and checking for Signals for print station 2 at time 7
+Student 2 from group no 1 has arrived at the print station at time 8
+Student 2 from group no 1 is waiting and checking for Signals for print station 2 at time 8
+Student 7 from group no 2 has arrived at the print station at time 9
+Student 7 from group no 2 is waiting and checking for Signals for print station 3 at time 9
+Library::: Staff  1 has opened  the entry book at time 10  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 10  no of submission = 0
+Student 10 from group no 2 has arrived at the print station at time 10
+Student 10 from group no 2 is waiting and checking for Signals for print station 2 at time 10
+Student 4 from group no 1 has arrived at the print station at time 11
+Student 4 from group no 1 is waiting and checking for Signals for print station 0 at time 11
+Student 8 from group no 2 has arrived at the print station at time 12
+Student 8 from group no 2 is waiting and checking for Signals for print station 0 at time 12
+Student 9 from group no 2 has arrived at the print station at time 13
+Student 9 from group no 2 is waiting and checking for Signals for print station 1 at time 13
+Student 3 from group no 1 has arrived at the print station at time 14
+Student 3 from group no 1 is waiting and checking for Signals for print station 3 at time 14
+Student 1 from group no 1 has arrived at the print station at time 15
+Student 1 from group no 1 is waiting and checking for Signals for print station 1 at time 15
+Library:::Staff  1 has closed  the entry book at time 19
+Library:::Staff  2 has closed  the entry book at time 19
+Library::: Staff  1 has opened  the entry book at time 29  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 29  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 38
+Library:::Staff  2 has closed  the entry book at time 38
+Library::: Staff  1 has opened  the entry book at time 48  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 48  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 57
+Library:::Staff  2 has closed  the entry book at time 57
+Library::: Staff  1 has opened  the entry book at time 67  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 67  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 76
+Library:::Staff  2 has closed  the entry book at time 76
+Library::: Staff  1 has opened  the entry book at time 86  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 86  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 95
+Library:::Staff  2 has closed  the entry book at time 95
+Library::: Staff  1 has opened  the entry book at time 105  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 105  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 114
+Library:::Staff  2 has closed  the entry book at time 114
+Student 5 from group no 1 has finished printing at print station 1 at time 121------------
+Student 11 from group no 3 has finished printing at print station 3 at time 122------------
+Student 12 from group no 3 has finished printing at print station 0 at time 123------------
+Library::: Staff  1 has opened  the entry book at time 124  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 124  no of submission = 0
+Student 9 from group no 2 has received MSG(normally) for print station 1 at time 126
+Student 9 from group no 2 has started printing at print station 1 at time 126----------
+Student 6 from group no 2 has finished printing at print station 2 at time 126------------
+Student 4 from group no 1 has received MSG(normally) for print station 0 at time 131
+Student 4 from group no 1 has started printing at print station 0 at time 131----------
+Student 15 from group no 3 has received MSG(on group priority)  for print station 3 at time 131
+Student 15 from group no 3 has started printing at print station 3 at time 131----------
+Library:::Staff  1 has closed  the entry book at time 133
+Library:::Staff  2 has closed  the entry book at time 133
+Student 2 from group no 1 has received MSG(normally) for print station 2 at time 141
+Student 2 from group no 1 has started printing at print station 2 at time 141----------
+Library::: Staff  1 has opened  the entry book at time 143  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 143  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 152
+Library:::Staff  2 has closed  the entry book at time 152
+Library::: Staff  1 has opened  the entry book at time 162  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 162  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 171
+Library:::Staff  2 has closed  the entry book at time 171
+Library::: Staff  1 has opened  the entry book at time 181  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 181  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 190
+Library:::Staff  2 has closed  the entry book at time 190
+Library::: Staff  1 has opened  the entry book at time 200  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 200  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 209
+Library:::Staff  2 has closed  the entry book at time 209
+Library::: Staff  1 has opened  the entry book at time 219  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 219  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 228
+Library:::Staff  2 has closed  the entry book at time 228
+Library::: Staff  1 has opened  the entry book at time 238  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 238  no of submission = 0
+Student 9 from group no 2 has finished printing at print station 1 at time 246------------
+Library:::Staff  1 has closed  the entry book at time 247
+Library:::Staff  2 has closed  the entry book at time 247
+Student 1 from group no 1 has received MSG(normally) for print station 1 at time 251
+Student 1 from group no 1 has started printing at print station 1 at time 251----------
+Student 15 from group no 3 has finished printing at print station 3 at time 251------------
+Student 4 from group no 1 has finished printing at print station 0 at time 251------------
+Student 3 from group no 1 has received MSG(normally) for print station 3 at time 256
+Student 3 from group no 1 has started printing at print station 3 at time 256----------
+Library::: Staff  1 has opened  the entry book at time 257  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 257  no of submission = 0
+Student 2 from group no 1 has finished printing at print station 2 at time 261------------
+Student 8 from group no 2 has received MSG(normally) for print station 0 at time 261
+Student 8 from group no 2 has started printing at print station 0 at time 261----------
+Student 10 from group no 2 has received MSG(normally) for print station 2 at time 266
+Student 10 from group no 2 has started printing at print station 2 at time 266----------
+Library:::Staff  1 has closed  the entry book at time 266
+Library:::Staff  2 has closed  the entry book at time 266
+Library::: Staff  1 has opened  the entry book at time 276  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 276  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 285
+Library:::Staff  2 has closed  the entry book at time 285
+Library::: Staff  1 has opened  the entry book at time 295  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 295  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 304
+Library:::Staff  2 has closed  the entry book at time 304
+Library::: Staff  1 has opened  the entry book at time 314  no of submission = 0
+Library::: Staff  2 has opened  the entry book at time 314  no of submission = 0
+Library:::Staff  1 has closed  the entry book at time 323
+Library:::Staff  2 has closed  the entry book at time 323
+Student 5 has arrived at the print station at time 1
+Student 11 has arrived at the print station at time 2
+Student 12 has arrived at the print station at time 3
+Student 13 has arrived at the print station at time 4
+Student 15 has arrived at the print station at time 5
+Student 6 has arrived at the print station at time 6
+Student 14 has arrived at the print station at time 7
+Student 2 has arrived at the print station at time 8
+Student 7 has arrived at the print station at time 9
+Student 10 has arrived at the print station at time 10
+Student 4 has arrived at the print station at time 16
+Staff 1 has started reading the entry book at time 19. No of submissions = 0
+Staff 2 has started reading the entry book at time 19. No of submissions = 0
+Student 8 has arrived at the print station at time 21
+Student 9 has arrived at the print station at time 26
+Student 3 has arrived at the print station at time 26
+Student 1 has arrived at the print station at time 26
+Staff 1 has started reading the entry book at time 26. No of submissions = 0
+Staff 2 has started reading the entry book at time 26. No of submissions = 0
+Staff 1 has started reading the entry book at time 33. No of submissions = 0
+Staff 2 has started reading the entry book at time 33. No of submissions = 0
+Staff 1 has started reading the entry book at time 40. No of submissions = 0
+Staff 2 has started reading the entry book at time 40. No of submissions = 0
+Staff 1 has started reading the entry book at time 47. No of submissions = 0
+Staff 2 has started reading the entry book at time 47. No of submissions = 0
+Staff 1 has started reading the entry book at time 54. No of submissions = 0
+Staff 2 has started reading the entry book at time 54. No of submissions = 0
+Staff 1 has started reading the entry book at time 61. No of submissions = 0
+Staff 2 has started reading the entry book at time 61. No of submissions = 0
+Staff 1 has started reading the entry book at time 68. No of submissions = 0
+Staff 2 has started reading the entry book at time 68. No of submissions = 0
+Staff 1 has started reading the entry book at time 75. No of submissions = 0
+Staff 2 has started reading the entry book at time 75. No of submissions = 0
+Group 2 has finished printing at time 76
+Group 1 has finished printing at time 81
+Group 2 has finished binding at time 81
+Group 2 has submitted the report at time 82
+Staff 1 has started reading the entry book at time 82. No of submissions = 1
+Staff 2 has started reading the entry book at time 82. No of submissions = 1
+Group 1 has finished binding at time 86
+Group 1 has finished binding at time 86
+
+Group 1 has submitted the report at time 87
+Student 1 has arrived at the print station at time 1
+Student 2 has arrived at the print station at time 2
+Student 3 has arrived at the print station at time 3
+Student 4 has arrived at the print station at time 4
+Student 5 has arrived at the print station at time 5
+Student 6 has arrived at the print station at time 6
+Student 7 has arrived at the print station at time 7
+Student 8 has arrived at the print station at time 8
+Student 9 has arrived at the print station at time 9
+Student 10 has arrived at the print station at time 10
+Student 11 has arrived at the print station at time 16
+Staff 1 has started reading the entry book at time 19. No of submissions = 0
+Staff 2 has started reading the entry book at time 19. No of submissions = 0
+Student 12 has arrived at the print station at time 21
+Student 13 has arrived at the print station at time 26
+Staff 1 has started reading the entry book at time 26. No of submissions = 0
+Staff 2 has started reading the entry book at time 26. No of submissions = 0
+Student 14 has arrived at the print station at time 31
+Student 15 has arrived at the print station at time 31
+Staff 1 has started reading the entry book at time 33. No of submissions = 0
+Staff 2 has started reading the entry book at time 33. No of submissions = 0
+Staff 1 has started reading the entry book at time 40. No of submissions = 0
+Staff 2 has started reading the entry book at time 40. No of submissions = 0
+Staff 1 has started reading the entry book at time 47. No of submissions = 0
+Staff 2 has started reading the entry book at time 47. No of submissions = 0
+Staff 1 has started reading the entry book at time 54. No of submissions = 0
+Staff 2 has started reading the entry book at time 54. No of submissions = 0
+Staff 1 has started reading the entry book at time 61. No of submissions = 0
+Staff 2 has started reading the entry book at time 61. No of submissions = 0
+Group 1 has finished printing at time 66
+Staff 1 has started reading the entry book at time 68. No of submissions = 0
+Staff 2 has started reading the entry book at time 68. No of submissions = 0
+Group 2 has finished printing at time 71
+Group 1 has finished binding at time 71
+Group 1 has submitted the report at time 72
+Staff 1 has started reading the entry book at time 75. No of submissions = 1
+Staff 2 has started reading the entry book at time 75. No of submissions = 1
+Group 2 has finished binding at time 76
+Group 2 has submitted the report at time 79
+Staff 1 has started reading the entry book at time 82. No of submissions = 2
+Staff 2 has started reading the entry book at time 82. No of submissions = 2
+Group 3 has finished printing at time 1711
+Staff 1 has started reading the entry book at time 1713. No of submissions = 2
+Staff 2 has started reading the entry book at time 1713. No of submissions = 2
+Group 3 has finished binding at time 1716
+Group 3 has submitted the report at time 1717
+Staff 1 has started reading the entry book at time 1720. No of submissions = 3
+Staff 2 has started reading the entry book at time 1720. No of submissions = 3

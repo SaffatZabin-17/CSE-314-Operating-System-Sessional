@@ -1,0 +1,5 @@
+YOu have to work on the offline implementation of the MLFQ scheduler. 
+
+Task: Make sure that a process which has been scheduled in the previous scheduler cycle, won't be scheduled in the next cycle. 
+
+More specifically, modify your offline implementation such that one process would not be scheduled twice in a row
